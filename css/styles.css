@@ -1,12 +1,22 @@
 body {
   margin: 0;
   text-align: center;
+  font-family: 'Merriweather', serif;
 }
 
 h1
 {
-  width: 10%;
+  font-size: 90px;
   margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
 }
 
 .top-container {
@@ -16,15 +26,11 @@ h1
 }
 
 .middle-container {
-  background-color: red;
-  width:200px;
-  height:200px;
+
 }
 
 .bottom-container {
-  background-color: blue;
-  width:200px;
-  height:200px;
+
 }
 
 .pro {
